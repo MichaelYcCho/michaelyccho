@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MichaelYcCho)](https://github.com/anuraghazra/github-readme-stats)
+![Michael's github stats](https://github-readme-stats.vercel.app/api?username=MichaelYcCho&show_icons=true&theme=merko)
 
 
 <!--
